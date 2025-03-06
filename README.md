@@ -20,4 +20,4 @@ Over the past year, we tested the effectiveness of different artificial intellig
 | Overall          | 176,692| 2,2040,274| 2,198,756|
 
 # The generalization performance on the CVEfixes dataset is shown in the following figure.
-![示例图片](https://github.com/用户名/仓库名/raw/main/example.png)
+![示例图片](https://github.com/hrshy0629/TestCVEFixesDatas/blob/main/TestOnCVEFixes.pdf)
