@@ -1,0 +1,2 @@
+# TestCVEFixesDatas
+不同人工智能模型在安全漏洞检测方面的有效性测试
